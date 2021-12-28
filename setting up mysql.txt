@@ -1,0 +1,10 @@
+create a database named LIBRARY
+create a table named LIBRARY
+with contents :
+
+book_name (varchar)
+book_no (int)
+dot (varchar)
+dor (varchar)
+availability (varchar)
+details (varchar)
