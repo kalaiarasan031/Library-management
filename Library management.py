@@ -4,8 +4,8 @@ while True:
  
     mydb = mysql.connector.connect(
     host="localhost",
-    user="root",
-    passwd="1122",
+    user="<user name of sql default- localhost",
+    passwd="<passwd for sql default - root>",  
     database="LIBRARY"
     )
  
